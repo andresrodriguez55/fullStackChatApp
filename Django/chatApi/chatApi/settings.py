@@ -95,7 +95,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            "host" : "mongodb+srv://admin:admin@chatapp.iau1j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "host" : "mongodb+srv://****",
             "name" : "chatDatabase",
             "authMechanism" : "SCRAM-SHA-1"
         },
