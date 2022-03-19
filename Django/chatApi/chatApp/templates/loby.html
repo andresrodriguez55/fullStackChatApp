@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Pruebas</title>
+        <meta name="viewport" content="width=device-width">
+    </head>
+
+    <body>
+        <h1>Mensajes</h1>
+        <form id="form">
+            <input type="text" name="message"/>
+        </form>
+
+        <script type="text/javascript">
+            let address = window.location.host
+            let url = "ws://" + address + "/ws/socket-server/"
+            
+            const chatSocket = new WebSocket(url)
+            chatSocket.onmessage =
+                function(e)
+                {
+                    let data = JSON.parse(e.data)
+                    console.log("Data", data)
+                }
+
+            let form = document.getElementById("form")
+            form.addEventListener('submit', (e)=>
+            {
+                e.preventDefault()
+                let message = e.target.message.value
+                chatSocket.send(
+                    JSON.stringify({
+                        'message' : message
+                    })
+                )
+                form.reset()
+            })
+        </script>
+    </body>
+</html>
