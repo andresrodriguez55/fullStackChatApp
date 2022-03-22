@@ -32,7 +32,7 @@ This is the first project that by far has a big difference from the old ones I'v
 
 In a time limit the design was implemented, design which had to be changed a bit (only the classes related to messages) due to the limitations of Hive.
 
-![](https://drive.google.com/uc?id=1w-myJMq6h5yggIzItmpPRBNY2q1I8DrI)
+![](./images/modelsUml.jpg)
 
 - The builder design pattern was used to be able to build main and secondary users in an optimal and fast way.
 - The observer design pattern was used to notify the client when data is received from the server (either via sockets or via rest api).
