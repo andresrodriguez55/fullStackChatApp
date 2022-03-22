@@ -74,27 +74,26 @@ It should also be noted that django does not yet officially have nosql database 
 
 ## 4. Screenshots
 
-<img src="https://drive.google.com/uc?id=1ZcOhrLG6_YpnSXbeLlqsg6ayFy56zqJ3"/> 
-<img src="https://drive.google.com/uc?id=13RCJEeWuFkaL_FoSckiHs-SBwCQvRH-k"/> 
-<img src="https://drive.google.com/uc?id=1bc9NcUe9fosQX2BLv4kmwzyQkthSvMPY"/> 
-<img src="https://drive.google.com/uc?id=1VCAQxi_KbUmQOZC6dSyMAyRf1QvcqzQP"/> 
-<img src="https://drive.google.com/uc?id=1Do6_XDGvMD3qSLSkZi1l3uwYweTyVd2Y"/>
-<img src="https://drive.google.com/uc?id=108zRce0bvnQt7nzB4a8ncHYanIpIz4dv"/> 
-<img src="https://drive.google.com/uc?id=1XNuZlhWkeCvs0qe_eda8_FiGlPpYGW6K"/>
-<img src="https://drive.google.com/uc?id=1NHez7TkVEBP-EQM9GPCrkaQ2aKYbtad1"/> 
-<img src="https://drive.google.com/uc?id=12evToWoBUQPnHvnXVcUg0Y1u3NnlANtA"/> 
-<img src="https://drive.google.com/uc?id=1c7dMMUoVDEcZnBNiULGXlOjOqvhWARbS"/> 
-<img src="https://drive.google.com/uc?id=1YzCmR3EH1Az78e0B-dFilSZic_XToX-5"/>
-<img src="https://drive.google.com/uc?id=1UO_P1ILK-qgK2W0Y9yFJPm4mVghoVxCG"/>
-<img src="https://drive.google.com/uc?id=18zsjfUkbq41YOyQhqXKMD2kOUEOUjVNU"/> 
-<img src="https://drive.google.com/uc?id=1Aen6GLO_ildz9pnCtGbKHEvsFFkNIPiX"/>
-<img src="https://drive.google.com/uc?id=1pzDYVtNaEBKYRPcxNWa8GgUo_k8Dwuc5"/> 
-<img src="https://drive.google.com/uc?id=1EqobLqeFyBMPgTtyx0U2IBn0dbSSYQMf"/>
-<img src="https://drive.google.com/uc?id=1Lsgz2-Qa0OiYXf1PsItZtuZsaJ0exUBh"/> 
-
-![](https://drive.google.com/uc?id=1MIMEMjqBuUv6i4sWb5j1JYOug6KSW0jl)
-![](https://drive.google.com/uc?id=11EZZCpkQYwtxEYoJegi1SCPzpUCL4Mvh)
-![](https://drive.google.com/uc?id=1xtIJsWUBoCQFpjD6K1nFrCHOY8A2sVTo)
+![](./images/1.jpg)
+![](./images/2.jpg)
+![](./images/3.jpg)
+![](./images/4.jpg)
+![](./images/5.jpg)
+![](./images/6.jpg)
+![](./images/7.jpg)
+![](./images/8.jpg)
+![](./images/9.jpg)
+![](./images/10.jpg)
+![](./images/11.jpg)
+![](./images/12.jpg)
+![](./images/13.jpg)
+![](./images/14.jpg)
+![](./images/15.jpg)
+![](./images/16.jpg)
+![](./images/17.jpg)
+![](./images/18.jpg)
+![](./images/19.jpg)
+![](./images/20.jpg)
 
 ## 5. Video Demo
 
