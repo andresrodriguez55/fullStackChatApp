@@ -52,7 +52,7 @@ Also here it should be noted that the users' profile images will be stored on th
 
 To demonstrate the server logic see the image below.
 
-![](https://drive.google.com/uc?id=1jtbRtQ8YPkebROdN1MMmRSXCWAWL-REO)
+![](./images/example.jpg)
 
 Look at the image, which simulates a session of a user who sends a friend request to another user.
 
